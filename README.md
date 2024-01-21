@@ -3,8 +3,6 @@
 - **Location:** 🏠 494/166/3 Daliganj, Lucknow, UP 226020
 - **Phone:** 📞 +91 9915542382
 - **Email:** ✉️ yadav.aman099@gmail.com
-- **GitHub:** [amankumaryadav](https://github.com/amankumaryadav)
-- **Portfolio/Blog:** [LearningToCode](#) [GamePrototypes](#)
 
 ## About Me
 
